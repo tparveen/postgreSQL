@@ -9,7 +9,7 @@ Mac and Windows users will find separate instructions.
 
 ![postgres-mac-1.png](postgres-Mac-1.png)
 
-* Once you download it, find the `.dmg` file and double click it to run it. 
+* Once you download it, find the `.dmg` file on your local machine and double click it to run it. 
 * Choose the default options when the installer runs.
 * You'll be asked to provide a password for the Postgres user, which is the default super user for Postgres. 
 * Be sure to make a note of the password you choose, as you'll need it later. 
